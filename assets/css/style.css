@@ -1,0 +1,12 @@
+.logo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    background-color: #4aaaa5;
+    width: 200px;
+    padding: 25px 15px 25px 15px;
+}
+
+h2 {
+    font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
+}
